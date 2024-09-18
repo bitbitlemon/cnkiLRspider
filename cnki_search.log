@@ -1,0 +1,5 @@
+2024-08-06 16:40:24,964 - INFO - Starting search with keyword: 农业, condition: 主题, selections: [6, 7]
+2024-08-06 16:40:59,374 - INFO - Starting search with keyword: 农业, condition: 主题, selections: [6, 7]
+2024-08-06 16:41:20,016 - INFO - Starting search with keyword: 农业, condition: 主题, selections: [7]
+2024-08-06 16:41:38,076 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)': /session/458b08b08cf74104d99376680a47565b
+2024-08-06 16:41:49,941 - INFO - Starting search with keyword: 农业, condition: 主题, selections: [7]
